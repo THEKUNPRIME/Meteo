@@ -3,7 +3,7 @@
 import logging
 from datetime import date
 
-import httpx2 as httpx
+import httpx as httpx
 
 log = logging.getLogger("app.weather_api")
 
