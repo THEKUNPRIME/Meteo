@@ -1,2 +1,2 @@
 flet
-httpx2
+httpx
